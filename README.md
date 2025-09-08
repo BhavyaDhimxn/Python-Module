@@ -7,7 +7,7 @@ This repository documents my **Python learning journey**, starting from the **ba
 ## 📅 Progress Tracker  
 
 - **Day 1 & 2** – Python Basics (syntax, variables, data types, input/output)    
-- *(to be updated daily as I continue my journey)*  
+- **Day3** - Python Operators (arithmetic, comparison, logical, identity, membership)
 
 ---
 
@@ -52,6 +52,6 @@ This is primarily a **personal learning repository**, but suggestions and resour
 
 ## 📌 Notes  
 
-- I am currently at **Day 2** of my journey.  
+- I am currently at **Day 3** of my journey.  
 - This README will be **continuously updated** as I progress.  
 
