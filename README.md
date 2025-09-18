@@ -8,6 +8,8 @@ This repository documents my **Python learning journey**, starting from the **ba
 
 - **Day 1 & 2** – Python Basics (syntax, variables, data types, input/output)    
 - **Day3** - Python Operators (arithmetic, comparison, logical, identity, membership)
+- **Day4** - Conditional Statements (if, else, elif)
+- **Day5** - Loops (for, while, nested loops, break, continue)
 
 ---
 
@@ -52,6 +54,6 @@ This is primarily a **personal learning repository**, but suggestions and resour
 
 ## 📌 Notes  
 
-- I am currently at **Day 3** of my journey.  
+- I am currently at **Day 5** of my journey.  
 - This README will be **continuously updated** as I progress.  
 
