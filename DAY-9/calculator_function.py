@@ -1,16 +1,21 @@
-def add(a, b):
-    return a + b
+def simpleCalculator(a, b, operation):
 
-def subtract(a, b):
-    return a - b
+    if operation == '+':
+        result = a + b
+    elif operation == '-':
+        result = a - b
+    elif operation == '*':
+        result = a * b
+    elif operation == '/':
+        if b == 0:
+            result = "Error: Division by zero"
+        else:
+            result = a / b
+    else:  
+        result = "Error: Invalid operation"
 
-def multiply(a, b):
-    return a * b
+    return result
 
-def divide(a, b):
-    if b == 0:
-        return "Error: Cannot divide by 0"
-    return a / b
 
 def inputTaker():
     a = float(input("Enter the first number: "))
@@ -20,18 +25,10 @@ def inputTaker():
     return a, b, operation
 
 while True:
+
     a, b , operation = inputTaker()
 
-    if operation == '+':
-        result = add(a, b)
-    elif operation == '-':
-        result = subtract(a, b)
-    elif operation == '*':
-        result = multiply(a, b)
-    elif operation == '/':
-        result = divide(a, b)
-    else:  
-        result = "Error: Invalid operation"
+    result = simpleCalculator(a, b, operation)
 
     print(f"The result is: {result}")
 
