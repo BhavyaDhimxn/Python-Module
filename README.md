@@ -13,6 +13,8 @@ This repository documents my **Python learning journey**, starting from the **ba
 - **Day6** - Data Structures (List, indexing, slicing, list operation)
 - **Day7** - Data Structures (Tuple, memory comparison, __sizeof__(), sys.getsizeof(), Tuple modification)
 - **Day8** - Data Structures (Set, Dictionaries, Operations on set and dictionary)
+- **Day9** - Functions (function definition, syntax, types of arguements)
+
 ---
 
 ## 📖 Learning Path  
@@ -56,6 +58,6 @@ This is primarily a **personal learning repository**, but suggestions and resour
 
 ## 📌 Notes  
 
-- I am currently at **Day 8** of my journey.  
+- I am currently at **Day 9** of my journey.  
 - This README will be **continuously updated** as I progress.  
 
