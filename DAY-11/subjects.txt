@@ -1,0 +1,6 @@
+Python
+Data Science
+Java
+GenAI
+Cloud Computing
+DevOps
