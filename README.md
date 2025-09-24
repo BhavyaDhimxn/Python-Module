@@ -14,6 +14,8 @@ This repository documents my **Python learning journey**, starting from the **ba
 - **Day7** - Data Structures (Tuple, memory comparison, __sizeof__(), sys.getsizeof(), Tuple modification)
 - **Day8** - Data Structures (Set, Dictionaries, Operations on set and dictionary)
 - **Day9** - Functions (function definition, syntax, types of arguements)
+- **Day10** - Error Handling (Try, Except, Else, Finally, Raise statement)
+- **Day11** - File I/O operations (read, write, append, open with)
 
 ---
 
